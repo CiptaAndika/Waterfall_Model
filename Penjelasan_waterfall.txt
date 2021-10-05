@@ -1,13 +1,8 @@
 Pengertian Metode Waterfall
 Metode waterfall adalah salah satu jenis model pengembangan aplikasi dan termasuk ke dalam classic life cycle (siklus hidup klasik), yang mana menekankan pada fase yang berurutan dan sistematis. Untuk model pengembangannya, dapat dianalogikan seperti air terjun, dimana setiap tahap dikerjakan secara berurutan mulai dari atas hingga ke bawah. 
-Tahapan Model Waterfall
+Tahapan Model Waterfall ada bebrapa yaitu sebagi beriku
 1. Requirement
-Tahapan metode waterfall yang pertama adalah mempersiapkan dan menganalisa kebutuhan dari software yang akan dikerjakan. Informasi dan insight yang diperoleh dapat berupa dari hasil wawancara, survei, studi literatur, observasi, hingga diskusi.
 2. Design
-Tahap yang selanjutnya adalah pembuatan desain aplikasi sebelum masuk pada proses coding. Tujuan dari tahap ini, supaya mempunyai gambaran jelas mengenai tampilan dan antarmuka software yang kemudian akan dieksekusi oleh tim programmer.
 3. Implementation
-Tahapan metode waterfall yang berikutnya adalah implementasi kode program dengan menggunakan berbagai tools dan bahasa pemrograman sesuai dengan kebutuhan tim dan perusahaan. Jadi, pada tahap implementasi ini lebih berfokus pada hal teknis, dimana hasil dari desain perangkat lunak akan diterjemahkan ke dalam bahasa pemrograman melalui tim programmer atau developer.
 4. Integration & Testing
-Tahap yang keempat, masuk dalam proses integrasi dan pengujian sistem. Pada tahap ini, akan dilakukan penggabungan modul yang sudah dibuat pada tahap sebelumnya. Setelah proses integrasi sistem telah selesai, berikutnya masuk pada pengujian modul.
 5. Operation & Maintenance
-Tahapan metode waterfall yang terakhir adalah pengoperasian dan perbaikan dari aplikasi. Setelah dilakukan pengujian sistem, maka akan masuk pada tahap produk dan pemakaian perangkat lunak oleh pengguna (user). Untuk proses pemeliharaan, memungkinkan pengembang untuk melakukan perbaikan terhadap kesalahan yang ditemukan pada aplikasi setelah digunakan oleh user.
