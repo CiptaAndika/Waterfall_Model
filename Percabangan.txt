@@ -1,0 +1,3 @@
+pada pertemuan 2 kita mengenal yang namanya gitbuh
+github digunakan untuk mengcreate suatu repositori
+yang di dalamnya berisi coding
